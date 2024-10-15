@@ -11,7 +11,7 @@ on:
 
 env:
   FRONTEND_WEBAPP_DEV: jfenandez-fe-dev
-  FRONTEND_WEBAPP_UAT: jfernandez-fe-uat
+  FRONTEND_WEBAPP_UAT: jfenandez-fe-uat
 
 jobs:
   build:
