@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: jfernandez-fe-dev
+  FRONTEND_WEBAPP_DEV: jfenandez-fe-dev
 
 jobs:
   build:
